@@ -30,10 +30,4 @@ Use Database
   <li>
    Delete Table
   </li>
-  <li>
-   Start Transaction
-  </li>
-   <li>
-   Stop Transaction
-  </li>
 </ol>
